@@ -1,24 +1,47 @@
+# Hi there, I'm Ardd 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C00&width=435&lines=Hello%2C+I'm+Ardd!+;Welcome+to+my+profile!)](https://git.io/typing-svg)
+🔥 DevSecOps Engineer | Cloud Wizard | Web3 Native  
+🛡️ 6+ years in DevOps · 4+ years in Web3 · Obsessed with clean systems & root cause thinking  
+---
 
-# 💻Tech Stack
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+## 🧰 Tech Toolbox
 
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js"/>
+</p>
 
-<a href="https://app.daily.dev/arddluma"><img align="right" src="https://api.daily.dev/devcards/67b8b419033b4ffe8409b1a6860a2d91.png?r=z2x" width="200" alt="Ardian's Dev Card"/></a>
-
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=arddluma&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arddluma&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arddluma&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arddluma&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 😂Random Dev Meme
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+- 💻 **Infra-as-Code**: Terraform, Terragrunt, CloudFormation
+- ☁️ **Cloud Platforms**: AWS (ECS, EBS, S3, NAT GW, CloudWatch), Hetzner
+- 🔒 **Security**: IAM, WAF, zero trust, logging
+- 🧩 **Monitoring**: CloudWatch, ELB logs, custom tooling
+- 📦 **Containers**: Docker, ECC, GitHub Actions
+- 🧪 **Automation**: Bash scripts, pipelines, scaling tricks
+- 🛠️ **Frontend Dev**: React, Next.js, TailwindCSS (when needed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arddluma&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arddluma&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arddluma&layout=compact&theme=radical)
+
+---
+
+## 💬 Let’s Connect
+
+- 🧵 Building open source for ops folks like me
+- 📨 [Ping me](mailto:me@ardd.cloud) if you want to chat infra, Web3, or side projects
+
+---
+
+_🧘‍♂️ Spiritual lineage: Between a bash script with no comments and an alerting system that actually makes sense._
+
